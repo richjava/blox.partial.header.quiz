@@ -1,6 +1,6 @@
 # blox.partial.header.quiz
 
-A (Building Blox)[https://github.com/Building-Blox/building-blox] header partial.
+A [Building Blox](https://github.com/Building-Blox/building-blox) header partial.
 
 ## Dependencies
 - Bootstrap
